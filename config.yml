@@ -1,12 +1,12 @@
-baseURL: 'https://hugo-ladder.pages.dev'
-title: LADDER
+baseURL: 'https://sereno.pages.dev'
+title: sereno.pages.dev
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
-description: 'A fast, clean Hugo theme'
-homepage: 'https://hugo-ladder.pages.dev'
+description: 'An indie italian developer'
+homepage: 'https://sereno.pages.dev'
 defaultContentLanguage: 'en'
-googleAnalytics: G-4WXJ5TEK2S
+googleAnalytics: G-xxx
 paginate: 10
 menu:
   main:
@@ -19,28 +19,22 @@ menu:
     - name: Archive
       url: /archives
       weight: 3
-    - name: Guestbook
-      url: /guestbook
-      weight: 4
-    - name: Dashboard
-      url: https://umami-ochre-nu.vercel.app/share/R1lHz7QY/hugo-ladder-exampleSite
-      weight: 5
 params:
   brand: HOME
   avatarURL: /images/avatar.png
-  author: Hugo Ladder
-  authorDescription: A clean, fast hugo theme focused on Reading
-  info: Ladder is a clean, simple but beautiful theme with awesome features
+  author: Sereno
+  authorDescription: An italian indie developer
+  info: Here I will document all my findings and creations.
   favicon: /images/avatar.png
   options:
     showDarkMode: true
     enableImgZooming: true
-    enableMultiLang: true
+    enableMultiLang: false
   darkModeTheme: data-dark-mode
   #darkModeTheme: icy-dark-mode
   comments:
     giscus:
-      enable: true
+      enable: false
       repo: guangzhengli/hugo-ladder-exampleSite
       repo_id: R_kgDOHyVOjg
       category: Announcements
@@ -56,49 +50,20 @@ params:
     google:
       SiteVerificationTag: xxx
     umami:
-      enable: true
+      enable: false
       website_id: 2320eaa6-a90b-471c-b6ca-e79dadde8c4c
       url: https://umami-ochre-nu.vercel.app/hugo-ladder.js
-  guestbook:
-    title: Guestbook
-    description: Leave a comment below. It could be anything –- question, appreciation, information, or even humor.
   social:
     - name: GitHub
       pre: >-
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
-      url: 'https://github.com/guangzhengli/hugo-theme-ladder'
-    - name: Dashboard
+      url: 'https://github.com/serenov7'
+    - name: TikTok
       pre: >-
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-box"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line></svg>
-      url: 'https://umami-ochre-nu.vercel.app/share/R1lHz7QY/hugo-ladder-exampleSite'
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 -100 2859 3600" fill="none" stroke="currentcolor" stroke-width="320" stroke-linecap="round" stroke-linejoin="round" class="feather feather-box"><path d="M2081 0c55 473 319 755 778 785v532c-266 26-499-61-770-225v995c0 1264-1378 1659-1932 753-356-583-138-1606 1004-1647v561c-87 14-180 36-265 65-254 86-398 247-358 531 77 544 1075 705 992-358V1h551z"></path></svg>
+      url: 'https://tiktok.com/@serenov7'
 languages:
   en:
     languageName: EN
-  zh:
-    languageName: 中
-    author: Ladder 主题
-    authorDescription: 一个美观，快速并且专注于阅读的主题
-    info: 帮助开发者构建一个免费并且漂亮的博客网站，记录自己的思考并且提高自己的影响力
-    guestbook:
-      title: 留言板
-      description: 您的评论，会让该网站更精彩！
-    menu:
-      main:
-        - name: 文章
-          url: /blog
-          weight: 1
-        - name: 分类
-          url: /tags
-          weight: 2
-        - name: 历史文章
-          url: /archives
-          weight: 3
-        - name: 留言板
-          url: /guestbook
-          weight: 4
-        - name: 网站统计
-          url: https://umami-ochre-nu.vercel.app/share/R1lHz7QY/hugo-ladder-exampleSite
-          weight: 5
 taxonomies:
-  series: series
   tag: tags

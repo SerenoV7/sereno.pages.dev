@@ -1,8 +1,6 @@
 ---
-date: {{ .Date }}
 title: ""
-description: ""
+date: {{ .Date }}
 tags: []
-series: []
+featured: true
 ---
-
