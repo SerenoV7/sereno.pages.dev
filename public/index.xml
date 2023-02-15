@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sereno.pages.dev</title>
+    <link>https://sereno.pages.dev/</link>
+    <description>Recent content on sereno.pages.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Feb 2023 22:09:56 +0100</lastBuildDate><atom:link href="https://sereno.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://sereno.pages.dev/blog/introduction/</link>
+      <pubDate>Wed, 15 Feb 2023 22:09:56 +0100</pubDate>
+      
+      <guid>https://sereno.pages.dev/blog/introduction/</guid>
+      <description>Introduction Name: Sereno
+Age: 18
+Occupation: Student
+Interests: Software Development
+I&amp;rsquo;m a small indie developer from Italy that is just following his passion.</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://sereno.pages.dev/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sereno.pages.dev/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://sereno.pages.dev/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sereno.pages.dev/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://sereno.pages.dev/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sereno.pages.dev/tags/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
