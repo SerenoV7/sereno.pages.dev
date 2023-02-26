@@ -5,7 +5,22 @@
     <link>https://sereno.pages.dev/</link>
     <description>Recent content on sereno.pages.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Feb 2023 22:09:56 +0100</lastBuildDate><atom:link href="https://sereno.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 20:47:48 +0100</lastBuildDate><atom:link href="https://sereno.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bad Apple ASCII</title>
+      <link>https://sereno.pages.dev/blog/badappleascii/</link>
+      <pubDate>Sun, 26 Feb 2023 20:47:48 +0100</pubDate>
+      
+      <guid>https://sereno.pages.dev/blog/badappleascii/</guid>
+      <description>The other day I was super bored so I decided &amp;ldquo;You know what? Fuck it I&amp;rsquo;m making something stupid.&amp;rdquo;
+This is the result of said stupid thing
+I made a small dumb program that prints the entirety of Bad Apple inside of a CMD window.
+Here&amp;rsquo;s the download link:
+EXECUTABLE
+A link to the code in case you want to see it.
+It requires .NET 6 or newer to run.</description>
+    </item>
+    
     <item>
       <title>Introduction</title>
       <link>https://sereno.pages.dev/blog/introduction/</link>
