@@ -1,6 +1,6 @@
 ---
 title: "Bad Apple ASCII"
-date: 2023-02-26T19:57:56+01:00
+date: 2023-02-26T20:47:48+01:00
 tags: ["Fun", "Coding"]
 featured: true
 ---
