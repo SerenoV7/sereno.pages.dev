@@ -5,7 +5,21 @@
     <link>https://sereno.pages.dev/</link>
     <description>Recent content on sereno.pages.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Feb 2023 20:47:48 +0100</lastBuildDate><atom:link href="https://sereno.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 17:50:00 +0100</lastBuildDate><atom:link href="https://sereno.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SerenoLan - How To</title>
+      <link>https://sereno.pages.dev/blog/serenolan/</link>
+      <pubDate>Mon, 13 Mar 2023 17:50:00 +0100</pubDate>
+      
+      <guid>https://sereno.pages.dev/blog/serenolan/</guid>
+      <description>Why? Using a program called ZeroTier I created a virtual network that I can use to host all of my servers and such.
+How? The setup process on my end took&amp;hellip; a lot.
+But on your end it should be easy enough! Just run this command in Powershell:
+iex ((New-Object System.Net.WebClient).DownloadString(&amp;#39;https://cdn-sereno.pages.dev/files/scripts/serenolan-setup.ps1&amp;#39;)) If you follow what the script says, you&amp;rsquo;ll have access to the network!
+That&amp;rsquo;s it!
+I&amp;rsquo;m going to use this method to host various stuff such as game servers (eg.</description>
+    </item>
+    
     <item>
       <title>Bad Apple ASCII</title>
       <link>https://sereno.pages.dev/blog/badappleascii/</link>

@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sereno.pages.dev/blog/</loc>
+    <lastmod>2023-03-13T17:50:00+01:00</lastmod>
+  </url><url>
+    <loc>https://sereno.pages.dev/tags/coding/</loc>
+    <lastmod>2023-03-13T17:50:00+01:00</lastmod>
+  </url><url>
+    <loc>https://sereno.pages.dev/</loc>
+    <lastmod>2023-03-13T17:50:00+01:00</lastmod>
+  </url><url>
+    <loc>https://sereno.pages.dev/blog/serenolan/</loc>
+    <lastmod>2023-03-13T17:50:00+01:00</lastmod>
+  </url><url>
+    <loc>https://sereno.pages.dev/tags/</loc>
+    <lastmod>2023-03-13T17:50:00+01:00</lastmod>
+  </url><url>
     <loc>https://sereno.pages.dev/blog/badappleascii/</loc>
     <lastmod>2023-02-26T20:47:48+01:00</lastmod>
   </url><url>
-    <loc>https://sereno.pages.dev/blog/</loc>
-    <lastmod>2023-02-26T20:47:48+01:00</lastmod>
-  </url><url>
-    <loc>https://sereno.pages.dev/tags/coding/</loc>
-    <lastmod>2023-02-26T20:47:48+01:00</lastmod>
-  </url><url>
     <loc>https://sereno.pages.dev/tags/fun/</loc>
-    <lastmod>2023-02-26T20:47:48+01:00</lastmod>
-  </url><url>
-    <loc>https://sereno.pages.dev/</loc>
-    <lastmod>2023-02-26T20:47:48+01:00</lastmod>
-  </url><url>
-    <loc>https://sereno.pages.dev/tags/</loc>
     <lastmod>2023-02-26T20:47:48+01:00</lastmod>
   </url><url>
     <loc>https://sereno.pages.dev/blog/introduction/</loc>

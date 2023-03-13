@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>sereno.pages.dev</title>
     <meta charset="utf-8">
-    <meta name="description" content="Ladder@Blog - sereno.pages.dev">
+    <meta name="description" content="Ladder@Blogs - sereno.pages.dev">
     <meta name="author" content="Sereno">
     <link rel="canonical" href="https://sereno.pages.dev/blog/">
         <meta name="google-site-verification" content="xxx">
@@ -22,15 +22,13 @@ if (!doNotTrack) {
 
 
 
-    <meta property="og:title" content="Blog" />
+    <meta property="og:title" content="Blogs" />
 <meta property="og:description" content="" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://sereno.pages.dev/blog/" /><meta property="article:section" content="" />
-
-
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://sereno.pages.dev/blog/" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Blog"/>
+<meta name="twitter:title" content="Blogs"/>
 <meta name="twitter:description" content=""/>
 
 
@@ -42,43 +40,10 @@ if (!doNotTrack) {
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Blog",
+      "name": "Blogs",
       "item": "https://sereno.pages.dev/blog/"
     }
   ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Blog",
-  "name": "Blog",
-  "description": "",
-  "keywords": [
-    
-  ],
-  "articleBody": "",
-  "wordCount" : "0",
-  "inLanguage": "en",
-  "datePublished": "0001-01-01T00:00:00Z",
-  "dateModified": "0001-01-01T00:00:00Z",
-  "author":{
-    "@type": "Person",
-    "name": "Sereno"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://sereno.pages.dev/blog/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "sereno.pages.dev",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://sereno.pages.dev/favicon.ico"
-    }
-  }
 }
 </script>
     <link rel="icon" type="image/png" href="/images/avatar.png" sizes="16x16">
@@ -164,33 +129,87 @@ if (!doNotTrack) {
     </section>
 </nav>
 <div id="content">
-<article class="blog-single">
-  <header class="blog-title">
-    <h1>Blog</h1>
-  </header>
-
-  <p>
+<div class="blog-wrapper">
+  <div>
+    <div class="card-list">
+      
+        <article>
+          <div class="card">
+              <h3><a href="/blog/serenolan/">SerenoLan - How To</a></h3>
+              <p>
   <small>
-    January 1, 1&nbsp;· 0 words&nbsp;· 0 min</small>
+    March 13, 2023&nbsp;· 82 words&nbsp;· One minute</small>
   <small>
     
+    ·
+    
+    
+    <a href="https://sereno.pages.dev/tags/coding/">Coding</a>
     
   </small>
 <p>
-
-  <div class="blog-toc">
-    <nav id="TableOfContents"></nav>
+              Why? Using a program called ZeroTier I created a virtual network that I can use to host all of my servers and such.
+How? The setup process on my end took&hellip; a lot.
+But on your end it should be easy enough! Just run this command in Powershell:
+iex ((New-Object System.Net.WebClient).DownloadString(&#39;https://cdn-sereno.pages.dev/files/scripts/serenolan-setup.ps1&#39;)) If you follow what the script says, you&rsquo;ll have access to the network!
+That&rsquo;s it!
+I&rsquo;m going to use this method to host various stuff such as game servers (eg.
+          </div>
+        </article>
+      
+        <article>
+          <div class="card">
+              <h3><a href="/blog/badappleascii/">Bad Apple ASCII</a></h3>
+              <p>
+  <small>
+    February 26, 2023&nbsp;· 90 words&nbsp;· One minute</small>
+  <small>
+    
+    ·
+    
+    
+    <a href="https://sereno.pages.dev/tags/fun/">Fun</a>
+    
+    <a href="https://sereno.pages.dev/tags/coding/">Coding</a>
+    
+  </small>
+<p>
+              The other day I was super bored so I decided &ldquo;You know what? Fuck it I&rsquo;m making something stupid.&rdquo;
+This is the result of said stupid thing
+I made a small dumb program that prints the entirety of Bad Apple inside of a CMD window.
+Here&rsquo;s the download link:
+EXECUTABLE
+A link to the code in case you want to see it.
+It requires .NET 6 or newer to run.
+          </div>
+        </article>
+      
+        <article>
+          <div class="card">
+              <h3><a href="/blog/introduction/">Introduction</a></h3>
+              <p>
+  <small>
+    February 15, 2023&nbsp;· 23 words&nbsp;· One minute</small>
+  <small>
+    
+    ·
+    
+    
+    <a href="https://sereno.pages.dev/tags/personal/">Personal</a>
+    
+  </small>
+<p>
+              Introduction Name: Sereno
+Age: 18
+Occupation: Student
+Interests: Software Development
+I&rsquo;m a small indie developer from Italy that is just following his passion.
+          </div>
+        </article>
+      </div>
+    
   </div>
-
-  <section class="blog-content"></section>
-
-  
-  
-
-  
-
-
-</article>
+</div>
 
         </div><footer class="footer">
   <p>&copy; 2023 <a href="https://sereno.pages.dev">sereno.pages.dev</a>
@@ -264,13 +283,6 @@ if (!doNotTrack) {
               container: null,  
               template: null,  
               background: 'rgba(0, 0, 0, 0.5)'
-          });
-      });
-  </script>
-
-  
-  <script src="/main.min.6bb26b69159420159c74dc9e097b06a578ed2b68c701466a91a44a9632d851bd0af167a1b30012387b4c512b48ad9ad4d3394e04d77ae38d57e1920fe4ed34fe.js" integrity="sha512-a7JraRWUIBWcdNyeCXsGpXjtK2jHAUZqkaRKljLYUb0K8WehswASOHtMUStIrZrU0zlOBNd6441X4ZIP5O00/g==" crossorigin="anonymous" defer></script></html>
-round: 'rgba(0, 0, 0, 0.5)'
           });
       });
   </script>
